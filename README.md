@@ -167,9 +167,12 @@ ORDER BY total_jugadores DESC;
 
 ## Autores
 
-Padron Yeison_
+Padron Yeison
+
 Gonzalez JuanPablo
+
 Castaño Simon
+
 Gomez Luisa
 
 Actividad académica desarrollada utilizando Apache Spark y Databricks Free Edition.
