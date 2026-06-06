@@ -55,21 +55,6 @@ https://www.kaggle.com/datasets/ibrahimqasimi/fide-world-chess-ratings-201k-play
 * Delta Lake
 * Kaggle Dataset
 
----
-
-## Estructura del proyecto
-
-```text
-Actividad_2/
-│
-├── Actividad_2.ipynb
-├── README.md
-└── evidencias/
-    ├── configuracion_entorno.png
-    ├── carga_dataset.png
-    ├── tabla_creada.png
-    └── consultas_sql.png
-```
 
 ---
 
